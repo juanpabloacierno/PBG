@@ -1,0 +1,8 @@
+beginparameters
+libraryfilename pbglibrary.txt
+libsize 260826
+listofpdbs pdbnames.dat
+writepdbfile 1 (0=no; 1=yes)
+rmsdcutof 0.5
+endparameters
+
